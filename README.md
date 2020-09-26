@@ -22,7 +22,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 Regarding Pod Installation, as my macOS is Catalina, I followed the [Catalina-specific Pod installation guide](https://hackmd.io/@anandsaimishra/S1UY3W7HP), but it didn't work for me. <br>
-Instead, just following the [General Pod installation guide from CodePath](https://guides.codepath.org/ios/CocoaPods#installing-cocoapods) worked for me. <br>
+Instead, just following the [General Pod installation guide](https://guides.codepath.org/ios/CocoaPods#installing-cocoapods) from CodePath worked for me. <br>
 Below is my environment details.
 
 ```
