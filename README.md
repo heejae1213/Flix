@@ -21,6 +21,14 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src=http://g.recordit.co/Xk2PUwY9ly.gif title=demo width=250><br>
 
 ### Notes
-Thanks to the detailed walk-through videos, there was no difficulty at all buidling the app. <br>
-Nevertheless, figuring out GIF part took a while for me. <br>
-I really wanted to demonstrate high-resolution demo gif, but then Git only accepts files under 100MB, so I couldn't really present high-resolution demo gif and it's kind of bummer. 😂
+Regarding Pod Installation, as my macOS is Catalina, I followed the [Catalina-specific Pod installation guide](https://hackmd.io/@anandsaimishra/S1UY3W7HP), but it didn't work for me. <br>
+Instead, just following the [General Pod installation guide from CodePath](https://guides.codepath.org/ios/CocoaPods#installing-cocoapods) worked for me. <br>
+Below is my environment details.
+
+```
+macOS Catalina  10.15.6
+Xcode 12
+```
+
+On a side note, figuring out GIF part took a while for me. <br>
+I really wanted to demonstrate high-resolution demo gif, but since Git only accepts files under 100MB, I couldn't present the high-resolution demo gif. 😂
